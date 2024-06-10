@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P2-EZamora-T1</string>
+    <string name="PastelDeChoclo">Pastel de Choclo</string>
+    <string name="Cazuela">Cazuela</string>
+    <string name="TotalPedido">Total Pedido</string>
+    <string name="Cant1">Cant</string>
+    <string name="Cant2">Cant</string>
+    <string name="TotalVenta">Total Venta</string>
+    <string name="propina_text">Propina</string>
+    <string name="total_venta">Total Venta</string>
+</resources>
